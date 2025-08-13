@@ -3,7 +3,7 @@
 This repository contains all the files related to my music video creations for the course COMP4441. I hope you all enjoy my videos!
 
 ## Projects
-- [Watch my video demos here](videos.html)
+- [Watch my video demos here](https://yuuki321.github.io/Comp4441/index.html)
 - **MIA3 AMV Creation**
 - **MIA Final Project Vocaloid PV** (Original Vocaloid Music)
 
